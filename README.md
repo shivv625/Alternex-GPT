@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# ChatBotusingNLP
-=======
 
 # Chatbot using NLP
 
@@ -92,3 +89,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the name of the directory where the project is located. Adjust any sections as necessary to better fit your project's specifics.
 >>>>>>> e4dac2d (Add files via upload)
+
+I have created this Readme file with the help of chatgpt
